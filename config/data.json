@@ -1,1 +1,1 @@
-{"SiteTextLogo":"Digestion Health","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"14mc8d","CurrencySymbol":"$","FacebookCurrency":"USD"}
+{"SiteTextLogo":"Digestion Health","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":219825569439253,"CurrencySymbol":"$","FacebookCurrency":"USD"}
